@@ -1,10 +1,19 @@
----
-layout: post
-title: You're up and running!
----
+作为程序员，我们敲代码的时候很轻快，键盘上噼里啪啦，「弹指间，樯橹灰飞烟灭」。但是，不少程序员不喜欢写东西。
+当然，人都是有惰性的，要跨出这一步不容易。我开始得也有点晚，不过晚总比不开始好。
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+以前我觉得，都有那么多牛人写技术文章了，我这样的小辈看看就好，况且：
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+写了会不会没人看呢？
+写了被人吐槽怎么办？ （你说：我脸皮薄啊。有多薄？比 B-Box 还要薄啊）
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+关于写了有没有人看，我想让大家放一百个心，这个年代，只要你持续产出，基本就一定会有人要看，就怕你不产出。
+
+当然了，我的每篇文章都要花不少时间来查证，以免误导读者。
+特别是错别字和语法，我会仔细检查。有时候读者评论说「你这里有个错别字」，我会立马更正，并留言谢谢他。我觉得如果一篇博文有很多错别字和语法错误，基本上证明这个作者没有那么认真对待，要么他的语文水平实在有限。如果是小编的话，那是要被扣鸡腿的。
+
+至于写了被人吐槽，那也不必太担心。一般在技术圈，人心还是相对单纯的，不会跟网络上的水军黑粉一样来胡乱骂你。而且你又不是在娱乐圈，那么多人来黑你干嘛，又没钱赚。只要你写的不是乱七八糟、「惨不忍睹」，基本评论还是很友善的。
+
+比如我在简书上就没遇到过恶意评论，我的微信公众号也几乎没有过。
+我的微信公众号也会收录读者不十分「友善」的评论，有时候这些看似负面的评论能激励我成长，因为有的时候确实写得不怎么样，那你下次就要多注意。
+我并不介意别人说我。我从来不会跟我的读者互怼，因为我认为那是不成熟的表现。
